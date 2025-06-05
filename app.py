@@ -88,6 +88,7 @@ HTML_TEMPLATE = """
   </head>
   <body>
     <img src=\"/static/veitur_logo.png\" alt=\"Veitur logo\" class=\"logo\">
+    <h1>Mér finnst rigningin góð</h1>
     <h1>Reiknivél fyrir regnvatn</h1>
     <form method=\"post\">
       <label>Sláðu inn flatarmál lóðarinnar (í m²):</label><br>
